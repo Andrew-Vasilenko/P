@@ -1,0 +1,3 @@
+-[?*!@=]
+-(?i)\.(?:gif|jpg|png|ico|css|sit|eps|wmf|zip|ppt|mpg|xls|gz|rpm|tgz|mov|exe|jpeg|bmp|js)$
++^http?://([a-z0-9-]+\.)*portal3\.ipb\.pt/
